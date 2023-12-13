@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(220, 215, 232);
+}
+
+
+.column {
+    background-color: rgb(77, 82, 116);
+}
+img {
+    background-color: rgb(140, 146, 189);
+}
+
+p {
+   color: bisque;
+   font-size: 20px; 
+}
+
+h4 {
+    color: bisque;
+    font-size: 25px; 
+}
+
+button {
+    color: bisque;
+    font-size: 20px;
+}
+
+nav {
+    font-size: 25px;
+}
